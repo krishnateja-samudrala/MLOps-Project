@@ -1,7 +1,7 @@
 # MLOps-Project
 # Pneumonia Onset Prediction in ICU Patients
 # Overview
-This repository contains code to build a machine learning model that can predict the onset of pneumonia in ICU patients 48 hours before the actual diagnosis. The model is trained on the freely available eICU critical care dataset.
+This repository contains code to build a machine learning model that can predict the onset of pneumonia in ICU patients 48 hours before the actual diagnosis. The model is trained on the private data (if you are interested to learn more please contact)
 
 ## Prerequisites
 
